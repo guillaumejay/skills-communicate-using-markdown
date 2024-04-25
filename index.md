@@ -4,3 +4,5 @@
 
 /details "test" "contenu"
 
+`code`
+
